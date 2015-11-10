@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Strider-CD/strider.git"
+    "url": "git://github.com/kevinchung0921/strider.git"
   },
   "browser": {
     "bootstrap": "./vendor/bootstrap/js/bootstrap.js",
@@ -107,7 +107,8 @@
     "strider-email-notifier": "^0.4.2",
     "strider-env": "^0.5.1",
     "strider-extension-loader": "^0.4.5",
-    "strider-git": "^0.2.0",
+    "strider-gerrit-review": "https://github.com/kevinchung0921/strider-gerrit-review.git",
+    "strider-git": "git://github.com/kevinchung0921/strider-git.git",
     "strider-github": "^2.1.1",
     "strider-gitlab": "^1.1.3",
     "strider-heroku": "^0.1.1",
